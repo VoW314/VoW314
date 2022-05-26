@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VoW314
 - 👀 I’m interested in secure computing, data science, and data visualizations and animations
-- 🌱 I’m currently learning Computer Science at VT
+- 🌱 I’m currently learning Computer Engineering at VT
 - 🍎 In the future I would like to familiarize more web tokenization
 
 
