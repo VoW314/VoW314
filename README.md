@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @VoW314
-- 👀 I’m interested in secure computing, data science, and data visualizations
-- 🌱 I’m currently studying Computer Engineering at VT
+- 👀 Interested in secure computing, data science, and data visualizations
+- 🌱 Currently Studying Computer Engineering at Virginia Tech
+- 🗞️ Work as an Undergrad Researcher at the Hume Center for National Security Technology. I have recently been able to co-author a paper.
+      More information can be found on my github page: vow314.github.io
 
 
 <!---
