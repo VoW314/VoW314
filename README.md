@@ -4,6 +4,8 @@
 - 🗞️ Work as an Undergrad Researcher at the Hume Center for National Security Technology. I have recently been able to co-author a paper.
       More information can be found on my github page: [Github.io](https://vow314.github.io/)
 
+  - 📰 2023 Paper: https://ieeexplore.ieee.org/document/10137792
+
 
 <!---
 VoW314/VoW314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
