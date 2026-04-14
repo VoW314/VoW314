@@ -6,10 +6,10 @@
 
   - 📰 2023 Paper: https://ieeexplore.ieee.org/document/10137792
 
- - **Current Project:**
+ - 🔧 **Current Project:**
 1) Raid Data Project: A "Where Winds Meet" based project for analyzing team Guild vs Guild matches. This uses post-game data and object detection from videos to analyze how individual players preform during a match. 
 
-- **Past Projects:**
+- 💻 **Past Projects:**
   
 1) Overvalued Stock Evaluation (Intro to Data Analytics and Visualization):
      -  Created a team project which found if a stock on a given day was considered overvalued or undervalued. It would then use KNN and cosine similarity to advise the user on the next closest/best stock to a company if it was found a company was overvalued.
