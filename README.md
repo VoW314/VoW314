@@ -6,6 +6,9 @@
 
   - 📰 2023 Paper: https://ieeexplore.ieee.org/document/10137792
 
+
+**DISCORD:** It seems my discord was hacked earlier on 5/20/26. If you recieve messages by a vodkaorwodka, it is not me. I am not enrolled in an IT class
+
  - 🔧 **Current Project:**
 1) Raid Data Project: A "Where Winds Meet" based project for analyzing team Guild vs Guild matches. This uses post-game data and object detection from videos to analyze how individual players preform during a match. 
 
