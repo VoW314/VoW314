@@ -37,13 +37,23 @@
      - Engineered a ChatGPT 4o medical triage assistant to give non-diagnostic health information to users
      - Included searches for NPPES and FDA Drug APIs which allowed user's to find information and save/share it.
     
-
 6) Discord Bots (Various Servers):
    - I have been updating and running 2 discord bots every so often that I made during freshman year.
    - The first of these bots is a free translation bot.
    - The second is an information and strategy planning bot for the "Conflict of Nations WW3" game. This second bot helps players create strategies and ideas both before and during a match.
   
+-  🏆**Competitions:**
 
+  1) CMDA Data Fest Fall:
+     - Competed in the advanced section of the Virginia Tech CMDA Fall Data Fest in 2025.
+     - Analyzed global outcomes of educational philanthropy of all countries.
+     - Collected data from many sources and merged together. Studied with KNN, panel regression, and propensity. 
+
+  3) VTQ Hackathon:
+      - Attended the Quantum Computing Hackathon hosted by the Physics Department at Virginia Tech and IBM Quantum.
+      - Solved problems by quickly teaching ourselves about quantum computing using online Qiskit resources.
+      - Applied knowledge of linear algebra, circuits, and mathematical modeling in order to solve problems pertaining to Quantum Computing. 
+  
 
 
 <!---
