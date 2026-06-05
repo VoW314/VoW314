@@ -4,7 +4,7 @@
 - 🗞️ Did research as a Subject Matter Expert at the Hume Center for National Security Technology. I have recently been able to co-author a paper
       More information can be found on my github page: [Github.io](https://vow314.github.io/) 
 
-  - 📰 2023 Paper: https://ieeexplore.ieee.org/document/10137792
+  - 📰 2023 Paper: [Deterring Adversarial Learning in Penetration Testing by Exploiting Domain Adaptation Theory](https://ieeexplore.ieee.org/document/10137792)
 
 
  - 🔧 **Current Project:**
