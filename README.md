@@ -15,11 +15,11 @@
 
 - 💻 **Notable Past Projects:**
   
-1) Overvalued Stock Evaluation (Intro to Data Analytics and Visualization):
+1) [Overvalued Stock Evaluation](https://github.com/VoW314/Analytics-Spring-25) (Intro to Data Analytics and Visualization):
      -  Created a team project which found if a stock on a given day was considered overvalued or undervalued. It would then use KNN and cosine similarity to advise the user on the next closest/best stock to a company if it was found a company was overvalued.
      -  This was targeted towards new investors and students who were interested in investing during April 2025's volatile market.
       
-2) Blind Bidding Stock Prediction:
+2) [Blind Bidding Stock Prediction](https://colab.research.google.com/drive/1PSyLQ-AUqN_dUlo7qsrX7_MAiw_iDKTK):
    - Created a model using Prophet to solve how much an adversary would bid the next time in a blind bidding scenario. This was an attempt to predict enemy team behaviors over territorial bids in the game "Once Human" by NetEase. 
    - The only known information was previous bids placed and remaining money. The amount placed on the current bid was not known.
    - Using this we were able to successfully and consistently outbid the other teams while also minimizing our own money spent on territories. We were always a step ahead and won the entire scenario event (6-week in game competition).
@@ -31,7 +31,7 @@
    - Used this information to specifically help players in my guild who were underpreforming and help them with their build and rotations.
    - Aided in moving our average damage and healing up higher as players at the bottom were able to be improved.
   
-4) E-Health:
+4) [E-Health](https://youtu.be/C-J0R_TiAU4):
      - Collaborated in a team of 5 students to create a medical file storage web application on Amazon's EC2 services
      - Designed a secure account creation and medical file storage drive backed by SQL
      - Engineered a ChatGPT 4o medical triage assistant to give non-diagnostic health information to users
