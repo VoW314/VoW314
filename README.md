@@ -29,12 +29,21 @@
    -  Collected values from the guild after each PvE encounter so we could collect the time-series data. 
    - Scored players using an ELO calcualtion per every raid and team fight in order to grade players over time. The ELO calculation would also take into account the difficulty of the raid, and number of players of specific classes.
    - Used this information to specifically help players in my guild who were underpreforming and help them with their build and rotations.
-   - Aided in moving our average damage and healing up higher as players at the bottom were able to be improved. 
-   
-5) Discord Bots (Various Servers):
+   - Aided in moving our average damage and healing up higher as players at the bottom were able to be improved.
+  
+4) E-Health:
+     - Collaborated in a team of 5 students to create a medical file storage web application on Amazon's EC2 services
+     - Designed a secure account creation and medical file storage drive backed by SQL
+     - Engineered a ChatGPT 4o medical triage assistant to give non-diagnostic health information to users
+     - Included searches for NPPES and FDA Drug APIs which allowed user's to find information and save/share it.
+    
+
+6) Discord Bots (Various Servers):
    - I have been updating and running 2 discord bots every so often that I made during freshman year.
    - The first of these bots is a free translation bot.
    - The second is an information and strategy planning bot for the "Conflict of Nations WW3" game. This second bot helps players create strategies and ideas both before and during a match.
+  
+
 
 
 <!---
