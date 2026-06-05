@@ -11,7 +11,7 @@
 1) Match Data:
      - A "Where Winds Meet" based project for analyzing team Guild vs Guild matches.
      - This uses post-game data and object detection from videos to analyze how individual players preform during a match. This also uses ChatGPT mini 5.4 to create coaching tips based on the analytics.
-     - Will be hosted publicly using streamlit. You can see current progress here: https://kdza4xp8cqv2e6wsnhz76c.streamlit.app/
+     - Will be hosted publicly using streamlit. You can see current progress here: [Project Nightfall](https://kdza4xp8cqv2e6wsnhz76c.streamlit.app/)
 
 - 💻 **Notable Past Projects:**
   
