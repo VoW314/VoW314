@@ -22,11 +22,11 @@
    - Using this we were able to successfully and consistently outbid the other teams while also minimizing our own money spent on territories. We were always a step ahead and won the entire scenario event (6-week in game competition).
   
 3) Raid Data Scoring:
- - Colaborated with an E-Sports coach (Richard Staats) to improve the PvE condition of our guild.
- -  Collected values from the guild after each PvE encounter so we could collect the time-series data. 
- - Scored players using an ELO calcualtion per every raid and team fight in order to grade players over time. The ELO calculation would also take into account the difficulty of the raid, and number of players of specific classes.
- - Used this information to specifically help players in my guild who were underpreforming and help them with their build and rotations.
- - Aided in moving our average damage and healing up higher as players at the bottom were able to be improved. 
+   - Colaborated with an E-Sports coach (Richard Staats) to improve the PvE condition of our guild.
+   -  Collected values from the guild after each PvE encounter so we could collect the time-series data. 
+   - Scored players using an ELO calcualtion per every raid and team fight in order to grade players over time. The ELO calculation would also take into account the difficulty of the raid, and number of players of specific classes.
+   - Used this information to specifically help players in my guild who were underpreforming and help them with their build and rotations.
+   - Aided in moving our average damage and healing up higher as players at the bottom were able to be improved. 
    
 5) Discord Bots (Various Servers):
    - I have been updating and running 2 discord bots every so often that I made during freshman year.
