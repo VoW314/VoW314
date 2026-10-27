@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @VoW314/shreyas21(VTPID)
-- 👀 Interested in Machine learning and AI
+- 👀 Interested in Defense contracting and computer vision topics!
 - 🌱 Currently Studying Computational Modeling, Data Analytics, and Cybersecurity at Virginia Tech
 - 🗞️ Did research as a Subject Matter Expert at the Hume Center for National Security Technology. I have recently been able to co-author a paper
       More information can be found on my github page: [Github.io](https://vow314.github.io/) 
 
   - 📰 2023 Paper: [Deterring Adversarial Learning in Penetration Testing by Exploiting Domain Adaptation Theory](https://ieeexplore.ieee.org/document/10137792)
+
+
 
 
  - 🔧 **Current Project:**
@@ -13,12 +15,13 @@
      - This uses post-game data and object detection from videos to analyze how individual players preform during a match. This also uses ChatGPT mini 5.4 to create coaching tips based on the analytics.
      - Will be hosted publicly using streamlit. You can see current progress here: [Project Nightfall](https://kdza4xp8cqv2e6wsnhz76c.streamlit.app/)
 
-2) Electrical Research:
+2) Electrical Research (Undergrad Research):
    - Current ongoing research under professor Madhav Marathe (Executive Director of UVA Biocomplexity)
    - Utilizes image processing and agentic AI
 
 
-- 💻 **Notable Past Projects:**
+- 💻 **Notable Past Projects:**w
+Some of these projects below are actually multiple smaller projects that were eventually tied together. 
   
 1) [Overvalued Stock Evaluation](https://github.com/VoW314/Analytics-Spring-25) (Intro to Data Analytics and Visualization):
      -  Created a team project which found if a stock on a given day was considered overvalued or undervalued. It would then use KNN and cosine similarity to advise the user on the next closest/best stock to a company if it was found a company was overvalued.
@@ -46,6 +49,11 @@
    - I have been updating and running 2 discord bots every so often that I made during freshman year.
    - The first of these bots is a free translation bot.
    - The second is an information and strategy planning bot for the "Conflict of Nations WW3" game. This second bot helps players create strategies and ideas both before and during a match.
+  
+7) Various Other Projects:
+   - Many other projects are listed on my portfolio: vow314.github.io.
+  
+
   
 -  🏆**Competitions:**
 
