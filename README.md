@@ -9,7 +9,7 @@
 
 
 
- - 🔧 **Current Project:**
+ - 🔧 **Current Projects:**
 1) Match Data (Personal):
      - A "Where Winds Meet" based project for analyzing team Guild vs Guild matches.
      - This uses post-game data and object detection from videos to analyze how individual players preform during a match. This also uses ChatGPT mini 5.4 to create coaching tips based on the analytics.
@@ -20,7 +20,7 @@
    - Utilizes image processing and agentic AI
 
 
-- 💻 **Notable Past Projects:**w
+- 💻 **Notable Past Projects:**
 Some of these projects below are actually multiple smaller projects that were eventually tied together. 
   
 1) [Overvalued Stock Evaluation](https://github.com/VoW314/Analytics-Spring-25) (Intro to Data Analytics and Visualization):
